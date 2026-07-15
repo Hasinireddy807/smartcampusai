@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Welcome to SmartCampusAI Portal!",
+        "content": "We have launched the new AI-powered operations portal. Please explore the AI Assistant and Analytics tab.",
+        "date": "2026-07-14",
+        "author": "System Admin"
+    },
+    {
+        "id": 2,
+        "title": "Midterm Exams Schedule Released",
+        "content": "The midterm examinations will start from next Monday. Check the Student tab for detailed timetable schedules.",
+        "date": "2026-07-13",
+        "author": "Academic Office"
+    }
+]

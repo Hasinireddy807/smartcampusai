@@ -1,0 +1,26 @@
+[
+    {
+        "id": "FAC001",
+        "name": "Dr. Alan Turing",
+        "email": "a.turing@smartcampus.edu",
+        "department": "Computer Science",
+        "designation": "Professor",
+        "specialization": "Artificial Intelligence"
+    },
+    {
+        "id": "FAC002",
+        "name": "Dr. Grace Hopper",
+        "email": "g.hopper@smartcampus.edu",
+        "department": "Computer Science",
+        "designation": "Associate Professor",
+        "specialization": "Compiler Design"
+    },
+    {
+        "id": "FAC003",
+        "name": "Dr. Claude Shannon",
+        "email": "c.shannon@smartcampus.edu",
+        "department": "Electrical Engineering",
+        "designation": "Professor",
+        "specialization": "Information Theory"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "STU001",
+        "name": "Alex Carter",
+        "email": "alex.carter@smartcampus.edu",
+        "department": "Computer Science",
+        "enrollment_year": 2024,
+        "status": "Active"
+    },
+    {
+        "id": "STU002",
+        "name": "Sarah Jenkins",
+        "email": "sarah.j@smartcampus.edu",
+        "department": "Data Science",
+        "enrollment_year": 2024,
+        "status": "Active"
+    },
+    {
+        "id": "STU003",
+        "name": "Michael Chang",
+        "email": "m.chang@smartcampus.edu",
+        "department": "Electrical Engineering",
+        "enrollment_year": 2023,
+        "status": "Active"
+    },
+    {
+        "id": "STU004",
+        "name": "Emily Watson",
+        "email": "emily.w@smartcampus.edu",
+        "department": "Mechanical Engineering",
+        "enrollment_year": 2023,
+        "status": "Active"
+    },
+    {
+        "id": "STU005",
+        "name": "David Miller",
+        "email": "david.m@smartcampus.edu",
+        "department": "Business Administration",
+        "enrollment_year": 2025,
+        "status": "Active"
+    }
+]

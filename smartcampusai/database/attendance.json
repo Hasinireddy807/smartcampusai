@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2026-07-10",
+        "student_id": "STU001",
+        "status": "Present",
+        "subject": "CS-101"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU002",
+        "status": "Present",
+        "subject": "CS-101"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU003",
+        "status": "Absent",
+        "subject": "EE-102"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU004",
+        "status": "Present",
+        "subject": "EE-102"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU001",
+        "status": "Present",
+        "subject": "CS-102"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU002",
+        "status": "Absent",
+        "subject": "CS-102"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU003",
+        "status": "Present",
+        "subject": "EE-103"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU004",
+        "status": "Present",
+        "subject": "EE-103"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU001",
+        "status": "Present",
+        "subject": "CS-103"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU002",
+        "status": "Present",
+        "subject": "CS-103"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU003",
+        "status": "Present",
+        "subject": "EE-104"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU004",
+        "status": "Absent",
+        "subject": "EE-104"
+    }
+]

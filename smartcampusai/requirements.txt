@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+bcrypt
+pandas
+plotly
+Pillow
+requests
+openai

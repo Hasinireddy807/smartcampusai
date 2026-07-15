@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-07-15 09:21:36",
+        "username": "hasini_123",
+        "action": "Login Successful",
+        "details": "Logged in with role: Student"
+    },
+    {
+        "timestamp": "2026-07-15 09:20:57",
+        "username": "hasini_123",
+        "action": "Register Successful",
+        "details": "Registered as Student"
+    },
+    {
+        "timestamp": "2026-07-15 09:19:49",
+        "username": "hasinireddy2115@gmail.com",
+        "action": "Login Failed",
+        "details": "User not found"
+    }
+]
